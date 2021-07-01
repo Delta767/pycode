@@ -1,3 +1,4 @@
+#Soyuz rocket coded in Minecraft Pi using Python
 import time
 from mcpi.minecraft import Minecraft
 from mcpi import block
